@@ -20,7 +20,7 @@ R. E. Zezario, C. -S. Fuh, H. -M. Wang and Y. Tsao, "Speech Enhancement with Zer
 R. E. Zezario, S. -W. Fu, C. -S. Fuh, Y. Tsao and H. -M. Wang, "STOI-Net: A Deep Learning based Non-Intrusive Speech Intelligibility Assessment Model," 2020 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), pp. 482-486, 2020. <a href="https://arxiv.org/ftp/arxiv/papers/2011/2011.04292.pdf" target="_blank">[pdf]</a> <a href="https://github.com/dhimasryan/STOI-Net" target="_blank">[code]</a>
 
 <a id="1"></a> 
-C. Yu*, R. E. Zezario*, S.-S. Wang, J. Sherman, Y.-Y. Hsieh, X. Lu, H.-M. Wang, and Y. Tsao, "Speech Enhancement Based on Denoising Autoencoder With Multi-Branched Encoders," in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 28, pp. 2756-2769, 2020. (* equal contribution) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9212562" target="_blank">[pdf]</a> 
+C. Yu* , R. E. Zezario* , S.-S. Wang, J. Sherman, Y.-Y. Hsieh, X. Lu, H.-M. Wang, and Y. Tsao, "Speech Enhancement Based on Denoising Autoencoder With Multi-Branched Encoders," in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 28, pp. 2756-2769, 2020. (* equal contribution) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9212562" target="_blank">[pdf]</a> 
 
 <a id="1"></a> 
 R. E. Zezario, T. Hussain, X. Lu, H. -M. Wang and Y. Tsao, "Self-Supervised Denoising Autoencoder with Linear Regression Decoder for Speech Enhancement," ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 6669-6673, 2020. <a href="https://ieeexplore.ieee.org/abstract/document/9053925" target="_blank">[pdf]</a> 
