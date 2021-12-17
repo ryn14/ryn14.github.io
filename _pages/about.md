@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently working as a Research Assistant at Research Center for Information Technology Innovation, Academia Sinica, Taipei, Taiwan. I am also currently working towards a Ph.D. degree in Computer Science and Information Engineering at National Taiwan University, Taipei, Taiwan. Before that, I obtained an MS degree in Computer Science and Information Engineering from National Central University, Taoyuan, Taiwan, and BS degree in Computer Science from Brawijaya University, Malang, Indonesia. 
 
-Please check the following <a href="https://scholar.google.com/citations?user=czoBHtoAAAAJ&hl=en" target="_blank">link</a> for more update publication lists.
+My research interests include deep learning, speech processing, and deep learning-based non-intrusive speech assessment model. Please kindly check the following <a href="https://scholar.google.com/citations?user=czoBHtoAAAAJ&hl=en" target="_blank">link</a> for more update publication.
 
 ## Selected Publications ##
 <a id="1"></a> 
